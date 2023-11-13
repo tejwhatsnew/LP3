@@ -1,5 +1,5 @@
-SPPU BE COMP - LP3 Assignments
-Languages used:-
-# DAA in CPP https://github.com/tejwhatsnew/LP3/tree/main/DAA
-ML, obviously, in Python :)
-Blockchain in Solidity
+SPPU BE COMP - LP3 Assignments \n
+Languages used:-\n
+DAA in CPP \n
+ML, obviously, in Python :) \n
+Blockchain in Solidity \n
